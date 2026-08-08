@@ -6,10 +6,31 @@
     "configurations": [
         {
             "type": "java",
-            "name": "main",
+            "name": "Shivam",
             "request": "launch",
-            "mainClass": "main",
-            "projectName": "src_3079c02a"
+            "mainClass": "Shivam",
+            "projectName": "Java_a7e7dcaa"
+        },
+        {
+            "type": "java",
+            "name": "EventDemo",
+            "request": "launch",
+            "mainClass": "EventDemo",
+            "projectName": "Java_a7e7dcaa"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "ExceptionHandling",
+            "projectName": "Java_a7e7dcaa"
+        },
+        {
+            "type": "java",
+            "name": "ShapeOverload",
+            "request": "launch",
+            "mainClass": "ShapeOverload",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
@@ -22,448 +43,154 @@
             "name": "Add",
             "request": "launch",
             "mainClass": "Add",
-            "projectName": "src_3079c02a"
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "AllPrime",
+            "name": "CheckAlfabate",
             "request": "launch",
-            "mainClass": "AllPrime",
-            "projectName": "src_3079c02a"
+            "mainClass": "CheckAlfabate",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "AnagramString",
+            "name": "CheckPositive",
             "request": "launch",
-            "mainClass": "AnagramString",
-            "projectName": "src_3079c02a"
+            "mainClass": "CheckPositive",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "ArmstrongNumber",
+            "name": "CompareString",
             "request": "launch",
-            "mainClass": "ArmstrongNumber",
-            "projectName": "src_3079c02a"
+            "mainClass": "CompareString",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Attendence",
+            "name": "Complex",
             "request": "launch",
-            "mainClass": "Attendence",
-            "projectName": "src_3079c02a"
+            "mainClass": "Complex",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Average",
+            "name": "ComplexNumber",
             "request": "launch",
-            "mainClass": "Average",
-            "projectName": "src_3079c02a"
+            "mainClass": "ComplexNumber",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Biketax",
+            "name": "Dog",
             "request": "launch",
-            "mainClass": "Biketax",
-            "projectName": "src_3079c02a"
+            "mainClass": "Dog",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Circle",
+            "name": "Even",
             "request": "launch",
-            "mainClass": "Circle",
-            "projectName": "src_3079c02a"
+            "mainClass": "Even",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "City",
+            "name": "Factorial",
             "request": "launch",
-            "mainClass": "City",
-            "projectName": "src_3079c02a"
+            "mainClass": "Factorial",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Electricbill",
+            "name": "Frequency",
             "request": "launch",
-            "mainClass": "Electricbill",
-            "projectName": "src_3079c02a"
+            "mainClass": "Frequency",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Employee",
+            "name": "Largest3",
             "request": "launch",
-            "mainClass": "Employee",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Equiletral",
-            "request": "launch",
-            "mainClass": "Equiletral",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Even10number",
-            "request": "launch",
-            "mainClass": "Even10number",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "EvenInArray",
-            "request": "launch",
-            "mainClass": "EvenInArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "EvenNumber",
-            "request": "launch",
-            "mainClass": "EvenNumber",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "EventDemo",
-            "request": "launch",
-            "mainClass": "EventDemo",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Factorials",
-            "request": "launch",
-            "mainClass": "Factorials",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "FibonacciSeries",
-            "request": "launch",
-            "mainClass": "FibonacciSeries",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "FirstArray",
-            "request": "launch",
-            "mainClass": "FirstArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "ForVoting",
-            "request": "launch",
-            "mainClass": "ForVoting",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Grademarks",
-            "request": "launch",
-            "mainClass": "Grademarks",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Largest2num",
-            "request": "launch",
-            "mainClass": "Largest2num",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Largest3Number",
-            "request": "launch",
-            "mainClass": "Largest3Number",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "LargestInArray",
-            "request": "launch",
-            "mainClass": "LargestInArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "LeapYear",
-            "request": "launch",
-            "mainClass": "LeapYear",
-            "projectName": "src_3079c02a"
+            "mainClass": "Largest3",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
-            "projectName": "src_3079c02a"
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Mains",
+            "name": "Natural",
             "request": "launch",
-            "mainClass": "Mains",
-            "projectName": "src_3079c02a"
+            "mainClass": "Natural",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Marks",
+            "name": "Number",
             "request": "launch",
-            "mainClass": "Marks",
-            "projectName": "src_3079c02a"
+            "mainClass": "Number",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "MatrixArray",
+            "name": "Overloadings",
             "request": "launch",
-            "mainClass": "MatrixArray",
-            "projectName": "src_3079c02a"
+            "mainClass": "Overloadings",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "NaturalNumber",
+            "name": "Search",
             "request": "launch",
-            "mainClass": "NaturalNumber",
-            "projectName": "src_3079c02a"
+            "mainClass": "Search",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "OddInArray",
+            "name": "Swap2Number",
             "request": "launch",
-            "mainClass": "OddInArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "PallindromeNumber",
-            "request": "launch",
-            "mainClass": "PallindromeNumber",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Pattern",
-            "request": "launch",
-            "mainClass": "Pattern",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Patterns",
-            "request": "launch",
-            "mainClass": "Patterns",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "PositiveNumber",
-            "request": "launch",
-            "mainClass": "PositiveNumber",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "PrimeInArray",
-            "request": "launch",
-            "mainClass": "PrimeInArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "PrimeNumber",
-            "request": "launch",
-            "mainClass": "PrimeNumber",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "PrintSeries",
-            "request": "launch",
-            "mainClass": "PrintSeries",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "ProductNumber",
-            "request": "launch",
-            "mainClass": "ProductNumber",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "ReadFileCount",
-            "request": "launch",
-            "mainClass": "ReadFileCount",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Rectangle",
-            "request": "launch",
-            "mainClass": "Rectangle",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "ReverseEquiletral",
-            "request": "launch",
-            "mainClass": "ReverseEquiletral",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Salary",
-            "request": "launch",
-            "mainClass": "Salary",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "SecondLargest",
-            "request": "launch",
-            "mainClass": "SecondLargest",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "SeniorCitizen",
-            "request": "launch",
-            "mainClass": "SeniorCitizen",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "SortingInArray",
-            "request": "launch",
-            "mainClass": "SortingInArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "SumOfArray",
-            "request": "launch",
-            "mainClass": "SumOfArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "SumofDigit",
-            "request": "launch",
-            "mainClass": "SumofDigit",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "SumofOdd",
-            "request": "launch",
-            "mainClass": "SumofOdd",
-            "projectName": "src_3079c02a"
+            "mainClass": "Swap2Number",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
             "name": "Table",
             "request": "launch",
             "mainClass": "Table",
-            "projectName": "src_3079c02a"
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "TenNumbers",
+            "name": "Uppercase",
             "request": "launch",
-            "mainClass": "TenNumbers",
-            "projectName": "src_3079c02a"
+            "mainClass": "Uppercase",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Triangle",
+            "name": "Year",
             "request": "launch",
-            "mainClass": "Triangle",
-            "projectName": "src_3079c02a"
+            "mainClass": "Year",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "Triangles",
+            "name": "finals",
             "request": "launch",
-            "mainClass": "Triangles",
-            "projectName": "src_3079c02a"
+            "mainClass": "finals",
+            "projectName": "Java_a7e7dcaa"
         },
         {
             "type": "java",
-            "name": "TwoDimArray",
+            "name": "vowel",
             "request": "launch",
-            "mainClass": "TwoDimArray",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Voter",
-            "request": "launch",
-            "mainClass": "Voter",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Vowel",
-            "request": "launch",
-            "mainClass": "Vowel",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "Wages",
-            "request": "launch",
-            "mainClass": "Wages",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "arraslist2",
-            "request": "launch",
-            "mainClass": "arraslist2",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "arrayslist",
-            "request": "launch",
-            "mainClass": "arrayslist",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "arrayslist3",
-            "request": "launch",
-            "mainClass": "arrayslist3",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "hello",
-            "request": "launch",
-            "mainClass": "hello",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "pattern2",
-            "request": "launch",
-            "mainClass": "pattern2",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "rightangle",
-            "request": "launch",
-            "mainClass": "rightangle",
-            "projectName": "src_3079c02a"
-        },
-        {
-            "type": "java",
-            "name": "temp",
-            "request": "launch",
-            "mainClass": "temp",
-            "projectName": "src_3079c02a"
+            "mainClass": "vowel",
+            "projectName": "Java_a7e7dcaa"
         }
     ]
 }

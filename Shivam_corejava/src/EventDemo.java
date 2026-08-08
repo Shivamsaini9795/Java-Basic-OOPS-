@@ -2,8 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class EventDemo extends JFrame implements KeyListener, MouseListener, MouseMotionListener 
-{
+public class EventDemo extends JFrame implements KeyListener, MouseListener, MouseMotionListener {
     private JLabel label;
 
     public EventDemo() {
@@ -21,8 +20,7 @@ public class EventDemo extends JFrame implements KeyListener, MouseListener, Mou
     }
 
     @Override
-    public void keyPressed(KeyEvent e) 
-    {
+    public void keyPressed(KeyEvent e) {
         label.setText("Key pressed: " + e.getKeyChar());
     }
 
@@ -37,8 +35,7 @@ public class EventDemo extends JFrame implements KeyListener, MouseListener, Mou
     }
 
     @Override
-    public void mouseClicked(MouseEvent e) 
-    {
+    public void mouseClicked(MouseEvent e) {
         label.setText("Mouse clicked at (" + e.getX() + ", " + e.getY() + ")");
     }
 
@@ -76,4 +73,3 @@ public class EventDemo extends JFrame implements KeyListener, MouseListener, Mou
         new EventDemo();
     }
 }
-

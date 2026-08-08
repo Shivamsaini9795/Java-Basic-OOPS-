@@ -1,35 +1,24 @@
+class Main{
+    public static void main(String [] args){
+        employee obj=new employee(2, 3);
+        System.out.println(obj.x);
+    }
+}
 class Person
 {
-    private String name;
-    private int age;
-
-    public String getName()
-    {
-        return name;
-    }
-    public void setName(String name)
+int x;
+Person(int y)
 {
-    this.name=name;
+System.out.println("Person");
+x=y;
 }
-public int  getAge()
-{
-    return age;
 }
-
-public void setAge(int age)
+class employee extends Person
 {
-    if(age>0)
+    int z;
+    employee(int a1, int a2)
     {
-      this.age=age;
-    }
-    else
-    {
-        System.out.println("Invalid age!");
+        super(a1);
+        z=a2;
     }
 }
-
-}
-
-
-
-

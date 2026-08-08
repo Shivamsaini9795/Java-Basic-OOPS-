@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-class Complex {
+class Complex2 {
     int real;
     int img;
 
@@ -15,7 +14,7 @@ class Complex {
 
     public void input() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the real and imaginary value ");
+        System.out.println("Enter the real and img value ");
         real = scanner.nextInt();
         img = scanner.nextInt();
     }
@@ -30,7 +29,7 @@ class Complex {
     }
 }
 
-public class Main {
+class Main {
     public static void main(String[] args) {
         Complex c1 = new Complex();
         Complex c2 = new Complex();
